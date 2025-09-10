@@ -85,7 +85,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 100, x: -200 }}
           className="absolute left-56 top-96 z-[60] hidden lg:block"
         >
-          <Pointer name="Andrea" />
+          <Pointer name="Yash" />
         </motion.div>
 
         <motion.div
@@ -106,12 +106,12 @@ export default function Hero() {
           initial={{ opacity: 0, x: 275, y: 100 }}
           className="absolute -top-4 right-80 z-[60] hidden lg:block"
         >
-          <Pointer name="Bryan" color="red" />
+          <Pointer name="Vansh" color="red" />
         </motion.div>
 
         <div className="flex justify-center">
           <div className="inline-flex rounded-full bg-gradient-to-r from-purple-400 to-pink-400 px-3 py-1 font-semibold text-neutral-950">
-            ✨ Secured £7.5M in Seed Funding
+            ✨ Secured $1.5M in Seed Funding
           </div>
         </div>
         <h1 className="mx-auto mt-6 max-w-4xl text-center text-4xl font-medium md:text-5xl lg:text-8xl">
